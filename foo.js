@@ -3,3 +3,5 @@ function sum(n, m) {
 }
 
 console.log("foo");
+
+console.log(11);
